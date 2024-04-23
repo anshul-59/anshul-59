@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anshul Bansod</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/imgresq=coding%20gif%20images&imgurl=https%3A%2F%2Fi.redd.it%2Fn8agw6z2smyb1.gif&imgrefurl=https%3A%2F%2Fwww.reddit.com%2Fr%2FCyberpunk%2Fcomments%2F17orhba%2Fcoding_by_pixel_jeff%2F&docid=yLveTRy-Mho5UM&tbnid=RnccUrmnK1fJ1M&vet=12ahUKEwj8kKLN99eFAxWywjgGHff6A0oQM3oECGwQAA..i&w=1920&h=1080&hcb=2&ved=2ahUKEwj8kKLN99eFAxWywjgGHff6A0oQM3oECGwQAA">
+<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqdas29w9nPrpAzGAq_50xEHyBiOq9DAMekg&s">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshul-59&label=Profile%20views&color=0e75b6&style=flat" alt="anshul-59" /> </p>
 
