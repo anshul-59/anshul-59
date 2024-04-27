@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **NodeJs**
 
-- 💬 Ask me about **React, NextJS**
+- 💬 Ask me about **Front End Development**
 
 - 📫 How to reach me **anshul.bansod5901@gmail.com**
 
